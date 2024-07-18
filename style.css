@@ -1,0 +1,30 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global Styles */
+body {
+  font-family: "Be Vietnam Pro", "Noto Sans", sans-serif;
+  background-color: #fff;
+  color: #111418;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Header Styles */
+header {
+  /* Styles from header.html are already using Tailwind CSS classes */
+}
+
+/* Footer Styles */
+footer {
+  /* Styles from footer.html are already using Tailwind CSS classes */
+}
+
+/* Placeholder for Component Styles - We'll add these as we create components */
